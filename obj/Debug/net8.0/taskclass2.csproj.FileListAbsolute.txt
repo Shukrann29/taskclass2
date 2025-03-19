@@ -1,0 +1,14 @@
+C:\Users\ll novbe\source\repos\taskclass2solution\taskclass2\obj\Debug\net8.0\taskclass2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ll novbe\source\repos\taskclass2solution\taskclass2\obj\Debug\net8.0\taskclass2.AssemblyInfoInputs.cache
+C:\Users\ll novbe\source\repos\taskclass2solution\taskclass2\obj\Debug\net8.0\taskclass2.AssemblyInfo.cs
+C:\Users\ll novbe\source\repos\taskclass2solution\taskclass2\obj\Debug\net8.0\taskclass2.csproj.CoreCompileInputs.cache
+C:\Users\ll novbe\source\repos\taskclass2solution\taskclass2\bin\Debug\net8.0\taskclass2.exe
+C:\Users\ll novbe\source\repos\taskclass2solution\taskclass2\bin\Debug\net8.0\taskclass2.deps.json
+C:\Users\ll novbe\source\repos\taskclass2solution\taskclass2\bin\Debug\net8.0\taskclass2.runtimeconfig.json
+C:\Users\ll novbe\source\repos\taskclass2solution\taskclass2\bin\Debug\net8.0\taskclass2.dll
+C:\Users\ll novbe\source\repos\taskclass2solution\taskclass2\bin\Debug\net8.0\taskclass2.pdb
+C:\Users\ll novbe\source\repos\taskclass2solution\taskclass2\obj\Debug\net8.0\taskclass2.dll
+C:\Users\ll novbe\source\repos\taskclass2solution\taskclass2\obj\Debug\net8.0\refint\taskclass2.dll
+C:\Users\ll novbe\source\repos\taskclass2solution\taskclass2\obj\Debug\net8.0\taskclass2.pdb
+C:\Users\ll novbe\source\repos\taskclass2solution\taskclass2\obj\Debug\net8.0\taskclass2.genruntimeconfig.cache
+C:\Users\ll novbe\source\repos\taskclass2solution\taskclass2\obj\Debug\net8.0\ref\taskclass2.dll
